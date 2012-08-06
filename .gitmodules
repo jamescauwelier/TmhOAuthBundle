@@ -1,3 +1,0 @@
-[submodule "lib/tmhOAuth/src"]
-	path = lib/tmhOAuth/src
-	url = git://github.com/themattharris/tmhOAuth.git
